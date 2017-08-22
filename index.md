@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Diwali Wishes
 
-You can use the [editor on GitHub](https://github.com/shahrukh1990/Diwali-Wishes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Please contact us using contact data below if you want any kind of support and we'll get back to you as soon as possible.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### SHAHRUKH JAIN
+Mo. +919811060344
+Email : shahrukh.jain1990@gmail.com
 
-### Markdown
+Address:
+R-706, Ajnra Homes 121, Noida
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Diwali Wishes
+Getting bored with traditional wishes!!!!!
+Don't worry here is a amazing way to share Diwali wishes.
+Just choose your photo from gallery or App galley and edit the photo by selecting amazing Diwali stickers. You can type your special wish to your dear one and share this to them.
 
-# Header 1
-## Header 2
-### Header 3
+***Key Feature***
+1. Choose your own photo.
+2.Choose from some cool Diwali Background available in the App
+3. Insert amazing Diwali stickers
+4. Type Special Wish
+5. Draw your hand drawing
+6. Save in Photos for future use
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shahrukh1990/Diwali-Wishes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is really amazing and quite easy.
+Try it once to share wishes.
